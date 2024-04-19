@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "reallyscaryupdate",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "Really Scary Update",
+  "description": "This is the Really Scary Update for BTA. It intends to add content from the Pretty Scary Update (1.4.2) of Vanilla Minecraft into BTA, along with more content fitting the theme.",
   "authors": [
-    "Turnip Labs"
+    "RasVHW"
   ],
   "contact": {
     "homepage": "",
@@ -19,20 +19,20 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-			"turniplabs.examplemod.ExampleMod"
+      "rasvhw.reallyscaryupdate.ReallyScaryUpdate"
     ],
 		"beforeGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+          "rasvhw.reallyscaryupdate.ReallyScaryUpdate"
 		],
 		"afterGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+          "rasvhw.reallyscaryupdate.ReallyScaryUpdate"
 		],
 		"recipesReady": [
-			"turniplabs.examplemod.ExampleMod"
+          "rasvhw.reallyscaryupdate.ReallyScaryUpdate"
 		]
 	},
   "mixins": [
-      "examplemod.mixins.json"
+		"reallyscaryupdate.mixins.json"
   ],
 
   "depends": {
