@@ -3,6 +3,7 @@ package rasvhw.reallyscaryupdate;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import rasvhw.reallyscaryupdate.block.ReallyScaryUpdateBlocks;
 import turniplabs.halplibe.util.GameStartEntrypoint;
 import turniplabs.halplibe.util.RecipeEntrypoint;
 
@@ -17,7 +18,8 @@ public class ReallyScaryUpdate implements ModInitializer, GameStartEntrypoint, R
 
 	@Override
 	public void beforeGameStart() {
-
+		new ReallyScaryUpdateBlocks().initializeBlocks();
+		LOGGER.info("ReallyScaryUpdateBlocks initialized");
 	}
 
 	@Override
