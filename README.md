@@ -1,6 +1,5 @@
 # The Really Scary Update
-
-![reallyscaryupdate.png](..%2F..%2F..%2FPictures%2Freallyscaryupdate.png)
+![reallyscaryupdate.png](src%2Fmain%2Fresources%2Freallyscaryupdate.png)
 
 An update for BTA 7.1, based on the release 1.4.2 Pretty Scary Update
 
