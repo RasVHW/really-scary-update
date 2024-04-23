@@ -1,2 +1,8 @@
 tile.reallyscaryupdate.pumpkin.white.name=White Pumpkin
 tile.reallyscaryupdate.pumpkin.white.desc=It gives off a creepy aura, reminiscent of some distant manor.
+tile.reallyscaryupdate.pumpkin.white.glowing.name=Glowing White Pumpkin
+tile.reallyscaryupdate.pumpkin.white.glowing.desc=You feel that if you turn away, it might sneak up from behind.
+tile.reallyscaryupdate.pumpkin.white.slashed.name=Slashed White Pumpkin
+tile.reallyscaryupdate.pumpkin.white.slashed.desc=Finally defeated, the spirit inside can rest.
+tile.reallyscaryupdate.pumpkin.white.slashed.glowing.name=Glowing Slashed White Pumpkin
+tile.reallyscaryupdate.pumpkin.white.slashed.glowing.desc=It's really getting too much at this point.

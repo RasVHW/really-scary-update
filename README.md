@@ -9,10 +9,14 @@ HalpLibe >= 3.5.2
 
 ModMenu >= 2.0.5
 
-PrismaticLibe >= (figure this out later)
+DragonFly >= 1.4.4
 
 ## Implemented Features
-Nothing. Woops.
+* White Pumpkin
+  * Regular
+  * Glowing
+  * Slashed
+  * Glowing Slashed
 
 ## Plans
 Planned features currently include
@@ -40,10 +44,10 @@ Planned features currently include
   * Spooky Scary Skeletons (Obtain a Wither Skeleton Skull)
   * (an achievement for each of the mob heads?)
   * (an achievement for making a beacon)
-* White Pumpkin
-  * Slashed White Pumpkin
 * Redstone Pumpkin
 * Curtains
+* Wool Armor
 * Torch Lever
+* Enchanted Fire Striker
 
 Some of these may not be implemented, at least for a long while, and the list is subject to change
